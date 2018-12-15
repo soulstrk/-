@@ -1,4 +1,4 @@
-package DesingPatter.Singleton;
+package DesignPattern.Singleton;
 
 public class YongComputer {
 	private static YongComputer yongComputer = new YongComputer();

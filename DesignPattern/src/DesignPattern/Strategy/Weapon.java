@@ -1,4 +1,4 @@
-package DesingPatter.Strategy;
+package DesignPattern.Strategy;
 
 public interface Weapon {
 	public void attack();

@@ -1,4 +1,4 @@
-package DesingPatter.Strategy;
+package DesignPattern.Strategy;
 
 public class Charactor {
 	private Weapon weapon;
